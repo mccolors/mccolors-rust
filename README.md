@@ -28,10 +28,10 @@ let clean_text = mcdelete("&eClean &7this &ftext.");
 
 ## Functions
 
-### `mcwrite(text, reset_all=True)`
+### `mcwrite(text)`
 Allows writing text with Minecraft color codes in the terminal.
 
-### `mcreplace(text, reset_all=True)`
+### `mcreplace(text)`
 Replaces Minecraft color codes in the text with their respective colors.
 
 ### `mcremove(text)`
