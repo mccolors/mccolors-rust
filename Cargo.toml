@@ -1,0 +1,13 @@
+[package]
+name = "mccolors-rust"
+version = "0.1.3"
+edition = "2021"
+authors = ["Pedro Agustin Vega vegapedroagustin@gmail.com"]
+description = "A Rust library for working with Minecraft color codes and ANSI colors."
+license = "MIT"
+repository = "https://github.com/wrrulos/mccolors-rust"
+homepage = "https://github.com/wrrulos/mccolors-rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
